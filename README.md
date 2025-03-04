@@ -1,1 +1,7 @@
-### Hi, I'm Konstantinos!
+# Hi, I'm Konstantinos!
+---
+
+## Skills
+---
+
+#### Programming Languages
